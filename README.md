@@ -16,7 +16,6 @@ This repository will be updated with new annotations.
 
 
 
-
 B.	FILES AND CONTENTS
 This repository contains the following folders and files: 
 
@@ -59,38 +58,44 @@ This folder contains the license files.
 
 
 C. LICENSES AND DISTRIBUTION
+
 The contents of this repository is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License. 
 
 
 D. CONTACTS
+
 If you have any question or comment, or if you want to add your own set of candidate terms, annotations, or partial annotations for inter-annotator agreement, please contact me (behrangatoffice AT gmail.com ).
 
 
 
 REFERENCES
+
 [1] http://acl-arc.comp.nus.edu.sg/
 [2] http://atmykitchen.info/datasets/acl_rd_tec/. 
 [3] http://atmykitchen.info/datasets/acl_rd_tec/annotation_guideline/index_guideline.htm
 [4] http://atmykitchen.info/datasets/acl_rd_tec/candidate_term/index_candid_term.htm
 
+
 ACKNOWLEDGEMENT
+
 This resource has emanated from research supported in part by a research grant from Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289.
 
 
-BIBLIOGRAPHY 
+BIBLIOGRAPHY
 
 Behrang Q. Zadeh and Siegfried Handschuh. "The ACL RD-TEC: A Dataset for Benchmarking Terminology Extraction and Classification in Computational Linguistics." In Proceedings of COLING 2014 CompuTerm 2014: 4th International Workshop on Computational Terminology. 2014.
+
 
 @InProceedings{zadehbq14computerm,
   author = {Behrang Q. Zadeh and Siegfried Handschuh},
   title = {The ACL RD-TEC: A Dataset for Benchmarking Terminology Extraction and Classification in Computational Linguistics },
-  booktitle = {COLING 2014: Proceedings of the 4th International Workshop on Computational Terminology (CompuTerm'14)},
-  year = 2014,
-  month = {August},
-  address = {Dublin, Ireland},
-  editor = {Patrick Drouin and Natalia Grabar and Thierry Hamon and Kyo Kageura},
-  publisher = {COLING}
-  url       = {http://www.aclweb.org/anthology/W14-4807}
+booktitle = {COLING 2014: Proceedings of the 4th International Workshop on Computational Terminology (CompuTerm'14)},
+year = 2014,
+month = {August},
+address = {Dublin, Ireland},
+editor = {Patrick Drouin and Natalia Grabar and Thierry Hamon and Kyo Kageura},
+publisher = {COLING}
+url  = {http://www.aclweb.org/anthology/W14-4807}
 }
 
 Steven Bird, Robert Dale, Bonnie Dorr, Bryan Gibson, Mark Joseph, Min-Yen Kan, Dongwon Lee, Brett Powley, Dragomir Radev and Yee Fan Tan. “The ACL Anthology Reference Corpus: A Reference Dataset for Bibliographic Research in Computational Linguistics.” In Proc. of Language Resources and Evaluation Conference (LREC 08). 2008.
@@ -99,12 +104,12 @@ Steven Bird, Robert Dale, Bonnie Dorr, Bryan Gibson, Mark Joseph, Min-Yen Kan, D
     author = {Steven Bird and Robert Dale and Bonnie Dorr and Bryan Gibson and Mark Joseph and Min-Yen Kan and Dongwon Lee and Brett Powley and Dragomir Radev and Yee Fan Tan},
     title = {The ACL Anthology Reference Corpus: A Reference Dataset for Bibliographic Research in Computational Linguistics},
     booktitle = {Proceedings of the Sixth International Conference on Language Resources and Evaluation (LREC-08)},
-    year = {2008},
-    publisher = {European Language Resources Association (ELRA)},
-    address = {Marrakech, Morocco},
-    month = {May},
-    url = {http://www.lrec-conf.org/proceedings/lrec2008/pdf/445_paper.pdf},
-    note = {ACL Anthology Identifier: L08-1005},
+year = {2008},
+publisher = {European Language Resources Association (ELRA)},
+address = {Marrakech, Morocco},
+month = {May},
+url = {http://www.lrec-conf.org/proceedings/lrec2008/pdf/445_paper.pdf},
+note = {ACL Anthology Identifier: L08-1005},
 }
 	
 
