@@ -3,7 +3,7 @@ THE ACL RD-TEC: a dataset for evaluation of term extraction and classification i
 -------------------------------------------------------------------------------
 
 NOTE: This repository only contains the basic manual annotation files. 
-To explore and download all the resources available through this dataset please visit http://atmykitchen.info/datasets/acl_rd_tec/. 
+To explore and download all the resources available through this dataset please visit http://pars.ie/lr/acl-rd-tec-terminology. 
 
 
 
@@ -71,10 +71,9 @@ If you have any question or comment, or if you want to add your own set of candi
 REFERENCES
 
 [1] http://acl-arc.comp.nus.edu.sg/
-[2] http://atmykitchen.info/datasets/acl_rd_tec/. 
-[3] http://atmykitchen.info/datasets/acl_rd_tec/annotation_guideline/index_guideline.htm
-[4] http://atmykitchen.info/datasets/acl_rd_tec/candidate_term/index_candid_term.htm
-
+[2] http://pars.ie/lr/sepid-corpus
+[3] http://pars.ie/lr/acl-rd-tec-terminology/ANNOTATION-GUIDELINE.PDF
+[4] http://pars.ie/lr/acl_arc_1_sum
 
 ACKNOWLEDGEMENT
 
